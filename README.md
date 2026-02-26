@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriela Andrade (@gabigam09)
 
-Graduanda em **Ciência da Computação** na **UFS**, com foco em sistemas distribuídos, protocolos de comunicação e computação paralela.
+Graduanda em **Ciência da Computação** na **UFS**
 
 ---
 
