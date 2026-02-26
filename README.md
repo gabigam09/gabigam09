@@ -14,7 +14,6 @@ Repositórios desenvolvidos em parceria com as organizações **DCOMP-UFS** e **
 * **[Modelo Produtor-Consumidor](https://github.com/DCOMP-UFS/implementacao-do-modelo-produtor-consumidor-gabigam09)**: Implementação clássica de concorrência.
 * **[Projeto PPC](https://github.com/DCOMP-UFS/projeto-ppc-gabigam09)**: Programação paralela e concorrente.
 * **[Lab Site Gabigam09](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-gabigam09)**: Desenvolvimento web acadêmico.
-* **[Centro de Educação e Ciências Humanas](https://github.com/DCOMP-UFS/2025-2-lab-t3-centro-de-educacao-e-ciencias-humanas-1)**: Colaboração em projeto institucional.
 
 ## 📡 Sistemas Distribuídos e Mensageria
 
