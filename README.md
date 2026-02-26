@@ -30,7 +30,7 @@ Graduanda em **Ciência da Computação** na **UFS**, com foco em sistemas distr
 
 ## 🏛️ Projetos em Organizações (Colaborativos)
 
-Repositórios desenvolvidos em parceria com **DCOMP-UFS** e **Matagim**:
+Repositórios desenvolvidos em parceria:
 
 * **[Projeto Condomínio - Lab-T3](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-condominio-centro_de_educacao_e_ciencias-humanas)**: Sistema de gestão condominial completo.
 * **[Robô de Reflorestamento](https://github.com/Matagim/robo_de_reflorestamento)**: Projeto de automação ambiental.
