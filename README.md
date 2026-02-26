@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriela Andrade (@gabigam09)
 
-Graduando em **Ciência da Computação** na **UFS**
+Graduanda em **Ciência da Computação** na **UFS**, com foco em sistemas distribuídos, protocolos de comunicação e computação paralela.
 
 ---
 
@@ -9,11 +9,15 @@ Graduando em **Ciência da Computação** na **UFS**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
 ### 📊 Estatísticas e Conquistas
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabigam09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,7 +28,6 @@ Graduando em **Ciência da Computação** na **UFS**
 
 ---
 
-
 ## 🏛️ Projetos em Organizações (Colaborativos)
 
 Repositórios desenvolvidos em parceria com **DCOMP-UFS** e **Matagim**:
@@ -34,6 +37,12 @@ Repositórios desenvolvidos em parceria com **DCOMP-UFS** e **Matagim**:
 * **[Serviço de Mensagens Instantâneas](https://github.com/DCOMP-UFS/servi-o-de-mensagens-instant-neas-via-rabbitmq-lorenaraquelolive)**: Middleware de mensageria escalável com RabbitMQ.
 * **[Snapshots de Chandy-Lamport](https://github.com/DCOMP-UFS/implementacao-dos-snaphots-de-chandy-lamport-gabigam09)**: Captura de estado em sistemas distribuídos.
 * **[Relógios Vetoriais](https://github.com/DCOMP-UFS/integrar-produtor-consumidor-com-os-relogios-vetoriais-gabigam09)**: Sincronização lógica de eventos.
+
+---
+
+## 💻 Desenvolvimento Frontend & Web
+
+* **[Reclame Ação - Frontend](https://github.com/gabigam09/praticas.reclame-acao-frontend)**: Interface moderna desenvolvida para gestão de reclamações e interação com o usuário.
 
 ---
 
@@ -50,4 +59,3 @@ Repositórios desenvolvidos em parceria com **DCOMP-UFS** e **Matagim**:
 * **Sockets e Redes:** [Exemplo TCP Java](https://github.com/gabigam09/ExemploTcpJava), [Exemplo UDP Java](https://github.com/gabigam09/ExemploUdpJava).
 * **Multithreading:** [Servidor Multithread Java](https://github.com/gabigam09/ExemploServidorMultithreadJava), [POSIX Threads (C)](https://github.com/gabigam09/ExemplosPthreads).
 * **Paralelismo:** [Exemplos MPI](https://github.com/gabigam09/ExemplosMPI).
-
