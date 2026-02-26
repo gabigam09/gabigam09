@@ -19,7 +19,7 @@ Repositórios desenvolvidos em parceria com as organizações **DCOMP-UFS** e **
 
 Implementações utilizando middlewares e protocolos modernos:
 
-* **RabbitMQ:** [Chat em Linha de Comando](https://github.com/gabigam09/chat-em-linha-de-comando-via-rabbitmq-alvarolspeixoto), [ChatRabbitMQ](https://github.com/gabigam09/ChatRabbitMQ), [ChatRabbitMQCopy](https://github.com/gabigam09/ChatRabbitMQCopy), [Exemplo Básico](https://github.com/gabigam09/ExemploRabbitMQ).
+* **RabbitMQ:** [ChatRabbitMQ](https://github.com/gabigam09/ChatRabbitMQ), [Exemplo Básico](https://github.com/gabigam09/ExemploRabbitMQ).
 * **gRPC & Serialização:** [Exemplo gRPC Java](https://github.com/gabigam09/Exemplo-gRPC-Java), [Protocol Buffers](https://github.com/gabigam09/ExemploProtocolBuffers).
 * **Comunicação Web:** [Exemplo REST Client Java](https://github.com/gabigam09/ExemploRESTClientJava).
 
