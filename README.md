@@ -32,8 +32,8 @@ Graduanda em **Ciência da Computação** na **UFS**
 
 Repositórios desenvolvidos em parceria:
 
-* **[Projeto Condomínio - Lab-T3](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-condominio-centro_de_educacao_e_ciencias-humanas)**: Sistema de gestão condominial completo.
-* **[Robô de Reflorestamento](https://github.com/Matagim/robo_de_reflorestamento)**: Projeto de automação ambiental.
+* **[Projeto Condomínio - Lab-T3](https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-condominio-centro_de_educacao_e_ciencias-humanas)**
+* **[Robô de Reflorestamento](https://github.com/Matagim/robo_de_reflorestamento)**
 * **[Serviço de Mensagens Instantâneas](https://github.com/DCOMP-UFS/servi-o-de-mensagens-instant-neas-via-rabbitmq-lorenaraquelolive)**: Middleware de mensageria escalável com RabbitMQ.
 * **[Snapshots de Chandy-Lamport](https://github.com/DCOMP-UFS/implementacao-dos-snaphots-de-chandy-lamport-gabigam09)**: Captura de estado em sistemas distribuídos.
 * **[Relógios Vetoriais](https://github.com/DCOMP-UFS/integrar-produtor-consumidor-com-os-relogios-vetoriais-gabigam09)**: Sincronização lógica de eventos.
